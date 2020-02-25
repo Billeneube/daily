@@ -1,6 +1,7 @@
 def spreadNumber(n):
 
- print(n + n-1)
+ l = list(range(1, a+1))
+ print(l)
 
 
 spreadNumber()
